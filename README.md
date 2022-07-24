@@ -16,8 +16,20 @@
 
 具体安装的视频教程：
 
-[新手挑战黑苹果-超详细的OpenCore黑苹果安装教程]([https://www.bilibili.com/video/BV18V41187JZ?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i×tamp=1616727523&unique_k=uNWbnL&vd_source=2c89c7c11b923bc0c820cde3df8b7a3b](https://www.bilibili.com/video/BV18V41187JZ?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1616727523&unique_k=uNWbnL&vd_source=2c89c7c11b923bc0c820cde3df8b7a3b))
+[新手挑战黑苹果-超详细的OpenCore黑苹果安装教程](https://www.bilibili.com/video/BV18V41187JZ?p=1&share_medium=android&share_medium=android&share_medium=android&share_medium=android&share_plat=android&share_plat=android&share_plat=android&share_plat=android&share_source=COPY&share_source=COPY&share_source=COPY&share_source=COPY&share_tag=s_i%25C3%2597tamp%3D1616727523&share_tag=s_i%25C3%2597tamp%3D1616727523&share_tag=s_i%C3%97tamp%3D1616727523&share_tag=s_i%25C3%2597tamp%3D1616727523&unique_k=uNWbnL&unique_k=uNWbnL&unique_k=uNWbnL&unique_k=uNWbnL&vd_source=2c89c7c11b923bc0c820cde3df8b7a3b%255D%255D%28https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV18V41187JZ%3Fp%3D1&vd_source=2c89c7c11b923bc0c820cde3df8b7a3b%255D%29%29%28%5Bhttps%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV18V41187JZ%3Fp%3D1&vd_source=2c89c7c11b923bc0c820cde3df8b7a3b%5D%28https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV18V41187JZ%3Fp%3D1&vd_source=2c89c7c11b923bc0c820cde3df8b7a3b%29%29)
 
 
 
-# 
+1、macOS镜像下载：[黑果小兵的部落阁](https://blog.daliansky.net/)  
+2、启动盘制作工具balenaEtcher下载：https://www.balena.io/etcher/  
+3、OpenCore下载：https://github.com/acidanthera/OpenCorePkg/releases  
+4、OpenCore驱动下载：[Gathering files | OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/ktext.html)  
+5、OpenCore编辑器：[Releases · ic005k/OCAuxiliaryTools · GitHub](https://github.com/ic005k/QtOpenCoreConfig/releases)  
+6、OpenCore排错：https://opencore.slowgeek.com/  
+7、磁盘精灵：[数据恢复软件,硬盘分区工具,系统备份软件 - DiskGenius官方网站](https://www.diskgenius.cn/)1、macOS镜像下载：[黑果小兵的部落阁](https://blog.daliansky.net/)  
+2、启动盘制作工具balenaEtcher下载：https://www.balena.io/etcher/  
+3、OpenCore下载：https://github.com/acidanthera/OpenCorePkg/releases  
+4、OpenCore驱动下载：[Gathering files | OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/ktext.html)  
+5、OpenCore编辑器：[Releases · ic005k/OCAuxiliaryTools · GitHub](https://github.com/ic005k/QtOpenCoreConfig/releases)  
+6、OpenCore排错：https://opencore.slowgeek.com/  
+7、磁盘精灵：[数据恢复软件,硬盘分区工具,系统备份软件 - DiskGenius官方网站](https://www.diskgenius.cn/)
