@@ -32,8 +32,6 @@
 
 [macOS Monterey 12.4 21F79 Installer for OpenCore 0.8.0 and CLOVER 5142 and FirPE.dmg](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMTI0OA==&mid=2450024949&idx=1&sn=8c03a842cd471d3eae4105a9c8ce91d2&chksm=b13d714a864af85c13a8d547e3ecb8a07e15d612b26ce35e03b362dcc878492035cc4972abd3&scene=127&ascene=78&devicetype=android-31&version=2800183f&nettype=WIFI&abtest_cookie=AAACAA%253D%253D&lang=zh_CN&exportkey=ASr2I%252BCyvCzi6eCyFJUmAqk%253D&pass_ticket=OUiuphDvhoVq7ZSdD1EoaCxiVaDtpjFC7PgLBChRmVikGG8IjbYXM%252BEfaDhTID8f&wx_header=3)
 
-
-
 #### b) 参考EFI
 
 1. EFI/1.zip 
@@ -41,8 +39,6 @@
 2. EFI/2.zip
 
 参考上述两个大佬的EFI， 拿到1 进行引导启动安装都可以正常进入系统，  注意 三个分区选择openCore 启动引导  ， 但是进入系统后 发现 蓝牙 WIFI  HDMI外接  全部无法驱动。
-
-
 
 #### c) 解决相关上述缺陷
 
@@ -53,3 +49,17 @@
  上述示例中主要注明 12系统中 可以提供多种驱动合集。 主要是引入以下两个驱动
 
 ![](/Users/rain/Library/Application%20Support/marktext/images/2022-07-24-17-13-23-image.png)
+
+
+
+显卡HDMI 驱动异常主要参考一下：
+
+[i7-9700k,UHD630核显，HDMI接口，usb3.0,成功黑苹果！-远景论坛-微软极客社区](https://bbs.pcbeta.com/viewthread-1839602-1-1.html)
+
+
+
+
+
+自动更新关闭，并取消红点
+
+[如何取消Mac的小红点和忽略版本升级？](https://zhuanlan.zhihu.com/p/436624540)
