@@ -26,6 +26,8 @@
 
 简而言之： 就是引导系统的一段汇编指令代码。
 
+
+
 <img src="file:///Users/rain/Library/Application%20Support/marktext/images/2022-07-30-11-11-50-image.png" title="" alt="" data-align="center">
 
 引导程序： 
