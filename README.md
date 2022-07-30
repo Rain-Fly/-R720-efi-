@@ -1,6 +1,6 @@
 # 联想拯救者R720安装黑苹果
 
-![2022-07-30-11-32-21-image.png](http://www.rainfly.cn/content/uploadfile/202207/57971659153593.png)
+![image](http://www.rainfly.cn/content/uploadfile/202207/57971659153593.png)
 
 - [x] CPU
 
@@ -25,8 +25,6 @@
 [EFI系统分区 :    支持EFI模式的电脑需要从 ESP 启动系统，EFI固件可从ESP加载EFI启动程序或者应用。ESP是系统引导分区。]([EFI系统分区_百度百科](https://baike.baidu.com/item/EFI%E7%B3%BB%E7%BB%9F%E5%88%86%E5%8C%BA/23315989?fr=aladdin))
 
 简而言之： 就是引导系统的一段汇编指令代码。
-
-
 
 <img src="file:///Users/rain/Library/Application%20Support/marktext/images/2022-07-30-11-11-50-image.png" title="" alt="" data-align="center">
 
