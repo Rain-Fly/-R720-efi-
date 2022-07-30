@@ -1,5 +1,7 @@
 # 联想拯救者R720安装黑苹果
 
+![](/Users/rain/Library/Application%20Support/marktext/images/2022-07-30-11-32-21-image.png)
+
 - [x]  CPU
 
 - [x]  核心显卡 Intel HD Graphics 630 2048 MB
@@ -7,6 +9,8 @@
 - [ ]  独立显卡1050TI
 
 - [x]  蓝牙
+
+- [x]  声卡（支持HDMI音频输出）
 
 - [x]  WiFi
 
@@ -16,15 +20,13 @@
 
 - [x]  隔空投送
 
-![](/Users/rain/Library/Application%20Support/marktext/images/2022-07-30-11-23-37-image.png)
-
-专业词解释
+### 安装前小知识
 
 [EFI系统分区 :    支持EFI模式的电脑需要从 ESP 启动系统，EFI固件可从ESP加载EFI启动程序或者应用。ESP是系统引导分区。]([EFI系统分区_百度百科](https://baike.baidu.com/item/EFI%E7%B3%BB%E7%BB%9F%E5%88%86%E5%8C%BA/23315989?fr=aladdin))
 
 简而言之： 就是引导系统的一段汇编指令代码。
 
-![](/Users/rain/Library/Application%20Support/marktext/images/2022-07-30-11-11-50-image.png)
+<img src="file:///Users/rain/Library/Application%20Support/marktext/images/2022-07-30-11-11-50-image.png" title="" alt="" data-align="center">
 
 
 
@@ -39,8 +41,6 @@
 4. Windows PE
 
 主要是用OpenCore 引导系统 。
-
-
 
 
 
