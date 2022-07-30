@@ -1,24 +1,24 @@
 # 联想拯救者R720安装黑苹果
 
-![](/Users/rain/Library/Application%20Support/marktext/images/2022-07-30-11-32-21-image.png)
+![2022-07-30-11-32-21-image.png](http://www.rainfly.cn/content/uploadfile/202207/57971659153593.png)
 
-- [x]  CPU
+- [x] CPU
 
-- [x]  核心显卡 Intel HD Graphics 630 2048 MB
+- [x] 核心显卡 Intel HD Graphics 630 2048 MB
 
-- [ ]  独立显卡1050TI
+- [ ] 独立显卡1050TI
 
-- [x]  蓝牙
+- [x] 蓝牙
 
-- [x]  声卡（支持HDMI音频输出）
+- [x] 声卡（支持HDMI音频输出）
 
-- [x]  WiFi
+- [x] WiFi
 
-- [x]  HDMI
+- [x] HDMI
 
-- [x]  睡眠唤醒 （HDMI外接显示器睡眠唤醒失效，需要热插拔）
+- [x] 睡眠唤醒 （HDMI外接显示器睡眠唤醒失效，需要热插拔）
 
-- [x]  隔空投送
+- [x] 隔空投送
 
 ### 安装前小知识
 
@@ -27,8 +27,6 @@
 简而言之： 就是引导系统的一段汇编指令代码。
 
 <img src="file:///Users/rain/Library/Application%20Support/marktext/images/2022-07-30-11-11-50-image.png" title="" alt="" data-align="center">
-
-
 
 引导程序： 
 
@@ -41,10 +39,6 @@
 4. Windows PE
 
 主要是用OpenCore 引导系统 。
-
-
-
-
 
 ### 一、基本参数：
 
