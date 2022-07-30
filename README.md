@@ -1,6 +1,6 @@
 # 联想拯救者R720安装黑苹果
 
-<img src="https://oscimg.oschina.net/oscnet/up-42e518aa72a24d228427a1261cb3679f395.png"/>
+<img src="http://www.rainfly.cn/content/uploadfile/202207/57971659153593.png"/>
 
 - [x] CPU
 
