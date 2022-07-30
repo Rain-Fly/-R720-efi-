@@ -1,5 +1,51 @@
 # 联想拯救者R720安装黑苹果
 
+- [x]  CPU
+
+- [x]  核心显卡 Intel HD Graphics 630 2048 MB
+
+- [ ]  独立显卡1050TI
+
+- [x]  蓝牙
+
+- [x]  WiFi
+
+- [x]  HDMI
+
+- [x]  睡眠唤醒 （HDMI外接显示器睡眠唤醒失效，需要热插拔）
+
+- [x]  隔空投送
+
+![](/Users/rain/Library/Application%20Support/marktext/images/2022-07-30-11-23-37-image.png)
+
+专业词解释
+
+[EFI系统分区 :    支持EFI模式的电脑需要从 ESP 启动系统，EFI固件可从ESP加载EFI启动程序或者应用。ESP是系统引导分区。]([EFI系统分区_百度百科](https://baike.baidu.com/item/EFI%E7%B3%BB%E7%BB%9F%E5%88%86%E5%8C%BA/23315989?fr=aladdin))
+
+简而言之： 就是引导系统的一段汇编指令代码。
+
+![](/Users/rain/Library/Application%20Support/marktext/images/2022-07-30-11-11-50-image.png)
+
+
+
+引导程序： 
+
+1. 变色龙
+
+2. Clover（四叶草）
+
+3. [OpenCore]([OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/))
+
+4. Windows PE
+
+主要是用OpenCore 引导系统 。
+
+
+
+
+
+
+
 ### 一、基本参数：
 
 > CPU: I5-7300HQ   
@@ -50,15 +96,9 @@
 
 ![](/Users/rain/Library/Application%20Support/marktext/images/2022-07-24-17-13-23-image.png)
 
-
-
 显卡HDMI 驱动异常主要参考一下：
 
 [i7-9700k,UHD630核显，HDMI接口，usb3.0,成功黑苹果！-远景论坛-微软极客社区](https://bbs.pcbeta.com/viewthread-1839602-1-1.html)
-
-
-
-
 
 自动更新关闭，并取消红点
 
