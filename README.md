@@ -1,6 +1,6 @@
 # 联想拯救者R720安装黑苹果
 
-![2022-07-30-11-32-21-image.png](http://www.rainfly.cn/content/uploadfile/202207/57971659153593.png)
+![57971659153593.png](http://www.rainfly.cn/content/uploadfile/202207/57971659153593.png)
 
 - [x] CPU
 
